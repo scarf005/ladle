@@ -42,7 +42,7 @@
     "@babel/preset-typescript": "^7.18.6",
     "@babel/runtime": "^7.20.13",
     "@babel/template": "^7.20.7",
-    "@babel/traverse": "^7.20.13",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.20.7",
     "@ladle/react-context": "workspace:^1.0.1",
     "@vitejs/plugin-react": "^3.1.0",
